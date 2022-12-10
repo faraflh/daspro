@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  </head>
+  <body>
+    <div id="app"></div>
+      <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+      <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+      <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+      <script type="text/babel">
+        class MK extends React.Component {
+          constructor(props) {
+              super(props);
+              this.state = {
+                matkul: ["Dasar Pemrograman", "Pengantar Teknik", "STI"],
+                text: '',
+                del: false}
+              this.removeMk = this.removeMk.bind(this);
+
+          }
+        
+          addMk(e) {
+              e.preventDefault();
+              this.setState({ 
+              	matkul: [ ...this.state.matkul, this.state.text ],
+              	text: ''
+              });
+          }
+        
+          removeMk(name, i){
+              let matkul = this.state.matkul.slice();
+              matkul.splice(i, 1);
+              this.setState({
+                matkul,
+                del: true
+              });
+          }
+        
+          updateValue(e) {
+              this.setState({ text: e.target.value})
+          }
+        
+          render() {
+            var del = '';
+            if (this.state.del) {
+              del = <p>Mata Kuliah Berhasil Dihapus!</p>
+              this.state.del = false;
+            }
+            return(
+                  <div>
+                    <h1> Mata Kuliah </h1>
+                    <p class='del'> { del } </p>
+                      <form onSubmit = {(e) => this.addMk(e)}>
+                          <input
+                              placeholder="Mata Kuliah"
+                              value={this.state.text}
+                              onChange={(e) => {this.updateValue(e)}}
+                          />
+                          <button type="submit">Tambah Mata Kuliah</button>
+                      </form>
+                      <MataKuliah matkul={this.state.matkul} removeMk={this.removeMk}/>
+                      
+                  </div>
+              );
+          }
+        }
+
+        class MataKuliah extends React.Component {
+
+          removeItem(item, i) {
+              this.props.removeMk(item, i);
+          }
+
+          render() {
+              return(
+                  <ul>
+                    { this.props.matkul.map((matkul,i) => {
+                        return <li
+                                onClick={() => { this.removeItem(matkul, i) }}
+                                key={i}
+                                style={{'background-color' : '#bed3f3', 'color' : '#276228'}}>
+                                { matkul } 
+                                </li>
+                    })}
+                  </ul>
+              );
+          }
+        }
+
+        ReactDOM.render(<MK/>, document.getElementById('app'))
+      </script>
+  </body>
+</html>

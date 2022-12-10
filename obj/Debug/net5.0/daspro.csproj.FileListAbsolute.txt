@@ -1,0 +1,16 @@
+D:\coolyeah\daspro\bin\Debug\net5.0\daspro.exe
+D:\coolyeah\daspro\bin\Debug\net5.0\daspro.deps.json
+D:\coolyeah\daspro\bin\Debug\net5.0\daspro.runtimeconfig.json
+D:\coolyeah\daspro\bin\Debug\net5.0\daspro.runtimeconfig.dev.json
+D:\coolyeah\daspro\bin\Debug\net5.0\daspro.dll
+D:\coolyeah\daspro\bin\Debug\net5.0\ref\daspro.dll
+D:\coolyeah\daspro\bin\Debug\net5.0\daspro.pdb
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.AssemblyInfo.cs
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.dll
+D:\coolyeah\daspro\obj\Debug\net5.0\ref\daspro.dll
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.pdb
+D:\coolyeah\daspro\obj\Debug\net5.0\daspro.genruntimeconfig.cache

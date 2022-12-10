@@ -1,0 +1,16 @@
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\game dadu.exe
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\game dadu.deps.json
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\game dadu.runtimeconfig.json
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\game dadu.runtimeconfig.dev.json
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\game dadu.dll
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\ref\game dadu.dll
+D:\coolyeah\daspro\game dadu\bin\Debug\net5.0\game dadu.pdb
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.AssemblyInfo.cs
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.dll
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\ref\game dadu.dll
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.pdb
+D:\coolyeah\daspro\game dadu\obj\Debug\net5.0\game dadu.genruntimeconfig.cache

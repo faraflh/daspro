@@ -1,0 +1,16 @@
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.AssemblyInfo.cs
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\soal uts 3.exe
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\soal uts 3.deps.json
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\soal uts 3.runtimeconfig.json
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\soal uts 3.runtimeconfig.dev.json
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\soal uts 3.dll
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\ref\soal uts 3.dll
+D:\coolyeah\daspro\soal uts 3\bin\Debug\net5.0\soal uts 3.pdb
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.dll
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\ref\soal uts 3.dll
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.pdb
+D:\coolyeah\daspro\soal uts 3\obj\Debug\net5.0\soal uts 3.genruntimeconfig.cache

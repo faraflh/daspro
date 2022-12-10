@@ -1,0 +1,16 @@
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\battle tank 3.exe
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\battle tank 3.deps.json
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\battle tank 3.runtimeconfig.json
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\battle tank 3.runtimeconfig.dev.json
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\battle tank 3.dll
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\ref\battle tank 3.dll
+D:\coolyeah\daspro\battle tank 3\bin\Debug\net5.0\battle tank 3.pdb
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.AssemblyInfo.cs
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.dll
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\ref\battle tank 3.dll
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.pdb
+D:\coolyeah\daspro\battle tank 3\obj\Debug\net5.0\battle tank 3.genruntimeconfig.cache

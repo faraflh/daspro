@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>To Do App (VanillaJS)</h1>
+    <input type="text">
+    <button> Tambah List</button>
+
+    <ul></ul>
+    <script>
+        var inputEl = document.querySelector('input');
+        var buttonEl = document.querySelector('button');
+        var ulEl = document.querySelector('ul');
+
+        var todos = [];
+
+        buttonEl.addEventListener('click', addToDo);
+
+        function addToDo()
+        {
+            var userInput = inputEl.value;
+            if (userInput.trim() == ''){
+                return;
+            }
+            var newToDo = { id: Math.random(), value: userInput};
+            todos.push(newToDo);
+            var toDoList = document.createElement('LI');
+            toDoList.textContent = userInput;
+            toDoList.addEventListener('click', removeToDo);
+            toDoList.dataset.id = newToDo.id;
+            ulEl.appendChild(toDoList);
+            console.log(todos);
+        }
+
+        function removeToDo(event){
+            var clickedList = event.target;
+            var itemId = clickedList.dataset.id;
+            for (var i = 0; i < todos.length; i++) {
+                if (todos[i].id == itemId) {
+                    todos.splice(i, 1);
+                    break;
+                }
+            }
+            clickedList.parentNode.removeChild(clickedList);
+            console.log(todos);
+        }
+    </script>
+</body>
+</html>

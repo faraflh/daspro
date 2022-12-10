@@ -1,0 +1,16 @@
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.AssemblyInfo.cs
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\tebak kata.exe
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\tebak kata.deps.json
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\tebak kata.runtimeconfig.json
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\tebak kata.runtimeconfig.dev.json
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\tebak kata.dll
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\ref\tebak kata.dll
+D:\coolyeah\daspro\tebak kata\bin\Debug\net5.0\tebak kata.pdb
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.dll
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\ref\tebak kata.dll
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.pdb
+D:\coolyeah\daspro\tebak kata\obj\Debug\net5.0\tebak kata.genruntimeconfig.cache

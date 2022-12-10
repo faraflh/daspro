@@ -1,0 +1,32 @@
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\adv. game 2.exe
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\adv. game 2.deps.json
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\adv. game 2.runtimeconfig.json
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\adv. game 2.runtimeconfig.dev.json
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\adv. game 2.dll
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\ref\adv. game 2.dll
+D:\coolyeah\daspro\adv. game 2\bin\Debug\net5.0\adv. game 2.pdb
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.AssemblyInfo.cs
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.dll
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\ref\adv. game 2.dll
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.pdb
+D:\coolyeah\daspro\adv. game 2\obj\Debug\net5.0\adv. game 2.genruntimeconfig.cache
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\adv. game 2.exe
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\adv. game 2.deps.json
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\adv. game 2.runtimeconfig.json
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\adv. game 2.runtimeconfig.dev.json
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\adv. game 2.dll
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\ref\adv. game 2.dll
+D:\coolyeah\daspro\adv. game\bin\Debug\net5.0\adv. game 2.pdb
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.csproj.AssemblyReference.cache
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.AssemblyInfoInputs.cache
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.AssemblyInfo.cs
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.csproj.CoreCompileInputs.cache
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.dll
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\ref\adv. game 2.dll
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.pdb
+D:\coolyeah\daspro\adv. game\obj\Debug\net5.0\adv. game 2.genruntimeconfig.cache
